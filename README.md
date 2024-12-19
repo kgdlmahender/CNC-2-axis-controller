@@ -33,4 +33,5 @@ The project integrates **VB.NET** for the user interface and **Arduino UNO** for
 ### Installation  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/kgdlmahender/2-Axis-CNC-Controller.git
+   [git clone https://github.com/kgdlmahender/2-Axis-CNC-Controller.git
+](https://github.com/kgdlmahender/CNC-2-axis-controller)
