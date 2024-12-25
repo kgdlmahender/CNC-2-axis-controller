@@ -31,7 +31,7 @@ The project integrates **VB.NET** for the user interface and **Arduino UNO** for
 - All the wirings should be done refering arduino Uno wiring diagram to the stepper drives.
 - VB.NET installed (Visual Studio recommended). Download the zip file of this CNC 2 axis controller and open in visual studio.
 - Check the correct COMPort which is connected to arduino Uno and rename the COMPort number in the code.
-- After running a form will be opened and you can jog, move a distance or upload a gcode and run the machine.
+- After running, a form(controlling interface) will be opened and you can jog, move a distance or upload a gcode and run the machine.
 
 
 ### Installation  
