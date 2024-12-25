@@ -25,10 +25,14 @@ The project integrates **VB.NET** for the user interface and **Arduino UNO** for
 
 ## Getting Started  
 
-### Prerequisites  
+### Prerequisites and procedure for testing
 - Arduino Uno and CNC hardware setup.  
-- grbl installed on Arduino Uno.
-- VB.NET installed (Visual Studio recommended).  
+- grbl installed on Arduino Uno. For uploading grbl on Arduino Uno, download the ZIP file of this link https://github.com/grbl/grbl and add to the arduino interface.
+- All the wirings should be done refering arduino Uno wiring diagram to the stepper drives.
+- VB.NET installed (Visual Studio recommended). Download the zip file of this CNC 2 axis controller and open in visual studio.
+- Check the correct COMPort which is connected to arduino Uno and rename the COMPort number in the code.
+- After running a form will be opened and you can jog, move a distance or upload a gcode and run the machine.
+
 
 ### Installation  
 1. Clone the repository:  
