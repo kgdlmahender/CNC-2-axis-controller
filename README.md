@@ -33,6 +33,7 @@ The project integrates **VB.NET** for the user interface and **Arduino UNO** for
 - VB.NET installed (Visual Studio recommended). Download the zip file of this CNC 2 axis controller and open in visual studio.
 - Check the correct COMPort which is connected to arduino Uno and rename the COMPort number in the code.
 - After running, a form(controlling interface) will be opened as shown below and you can jog, move a distance or upload a gcode and run the machine.
+
 ![Form Photo](https://github.com/kgdlmahender/CNC-2-axis-controller/raw/master/form_photo.png)
 
 
